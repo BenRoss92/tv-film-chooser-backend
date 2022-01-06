@@ -1,0 +1,14 @@
+{
+  "name": "tv-film-chooser-backend",
+  "version": "1.0.0",
+  "description": "Back-end for Film/TV programme chooser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
